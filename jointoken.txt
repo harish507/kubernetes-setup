@@ -1,0 +1,1 @@
+kubeadm join 10.128.0.62:6443 --token 7josk8.ofq9jadxafi875hg     --discovery-token-ca-cert-hash sha256:9e750c4e8a47579c69e54a3e2fe658e660ead1e368a1b14e8ba69abb691a5d59 
